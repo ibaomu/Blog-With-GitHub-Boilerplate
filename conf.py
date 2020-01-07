@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "ibaomu/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "ibaomu/blog@gh-pages"
 }
 
 # 站点设置
@@ -30,9 +30,9 @@ key_words = ['blog', 'wildtree', 'growing', 'student']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "Home",
+        "url": "https://github.com/ibaomu",
+        "brief": "back to home"
     },
     {
         "name": "我的博客",
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://github.com/ibaomu",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/ibaomu",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://github.com/ibaomu",
         "icon": "gi gi-weibo"
     }
 ]
