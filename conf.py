@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "wildtree"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}pink_sin.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "抱木"
 email = "bkmu39@gmail.com"
