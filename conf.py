@@ -31,12 +31,12 @@ language = 'zh-CN'
 external_links = [
     {
         "name": "Home",
-        "url": "https://github.com/ibaomu",
+        "url": "https://ibaomu.github.io/blog",
         "brief": "back to home"
     },
     {
         "name": "我的博客",
-        "url": "https://github.com/ibaomu",
+        "url": "https://ibaomu.github.io/blog",
         "brief": "抱木的主页。"
     }
 ]
